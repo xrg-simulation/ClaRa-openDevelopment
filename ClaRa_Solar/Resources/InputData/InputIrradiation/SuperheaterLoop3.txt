@@ -1,0 +1,12 @@
+#1
+double dat(6,9)
+# 1  2  3  4  5  6  7  8  9
+0 850 850 850 850 850 850 850 850
+20077 850 850 850 850 850 850 850 850
+20097 170 170 170 170 170 170 170 170
+20397 170 170 170 170 170 170 170 170
+20417 850 850 850 850 850 850 850 850
+40000 850 850 850 850 850 850 850 850
+#Collector number3
+#Date of creation:28-Apr-2023
+#lengthTubeSH=240 discIrrSH=8 lengthDistortion=300 velocityDistortion=1 endTimeSim=40000 deltaTimeDistortion=300 deltaTime=20 Irr=850 deltaIrr=680 startingTimeDistortion=20077
